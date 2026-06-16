@@ -23,9 +23,7 @@ You do not win by building alone. You win by building something others cannot ig
 - AI-native operating systems
 - Knowledge compilers and memory engines
 - Agent orchestration workflows
-- Repository factories and product generators
 - SOC, OSINT, and intelligence dashboards
-- SaaS platforms with deployable web products
 - Open-source architecture for long-term maintainability
 
 ## Core Stack
