@@ -1,8 +1,8 @@
-# Joy Ogunleye — Founder of ArkNet Digital
+# Founder of ArkNet Digital
 
 I build AI-native systems that turn ideas into living infrastructure.
 
-ArkNet is my foundational framework for knowledge compounding, persistent memory, agent collaboration, repository generation, and long-term product creation. The goal is simple but ambitious: build systems that create, improve, remember, and ship.
+ArkNet is my foundational framework for knowledge compounding, persistent memory, agent collaboration, repository generation, and long-term product creation. The goal is simple but ambitious: build systems that create, improve, remember.
 
 ## ArkNet Thinking
 
@@ -32,15 +32,13 @@ You do not win by building alone. You win by building something others cannot ig
 
 ## Core Stack
 
-Next.js, React, TypeScript, Supabase, Postgres, pgvector, Vercel, GitHub automation, Groq/OpenAI-style AI workflows, Tailwind CSS, shadcn-style interfaces, and production-grade documentation systems.
+Languages & Frameworks: React Ecosystem, TypeScript, Node.js paradigms.
 
-## Active Direction
+Data & Storage: PostgreSQL & Cloud-native Relational Databases, Vector Search Extensions.
 
-ArkNet is becoming a self-improving knowledge civilization platform:
+Cloud & Infrastructure: Serverless Deployment Platforms, Edge Computing, Automated GitOps.
 
-```text
-Idea -> Knowledge -> Memory -> AgentOS -> Forge -> GitHub -> Vercel -> Learning Loop
-```
+AI Integration: OpenAI/Anthropic SDKs and high-throughput inference APIs.
 
 Every project should teach the system. Every useful lesson should become memory. Every failure should become reusable knowledge.
 
