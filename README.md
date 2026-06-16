@@ -1,8 +1,6 @@
 # Founder of ArkNet Digital
 
-I build AI-native systems that turn ideas into living infrastructure.
-
-ArkNet is my foundational framework for knowledge compounding, persistent memory, agent collaboration, repository generation, and long-term product creation. The goal is simple but ambitious: build systems that create, improve, remember.
+I build AI-native systems and ArkNet is my foundational framework for knowledge compounding, persistent memory, agent collaboration. The goal is simple but ambitious: build systems that create, improve, remember.
 
 ## ArkNet Thinking
 
