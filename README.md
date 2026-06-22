@@ -60,7 +60,7 @@ I build AI-first tools that give individuals and small teams capabilities that u
 
 <div align="center">
 
-Built with **[ArkNet Forge](https://arknet-os.vercel.app)** — Joy's internal AI development system
+[ArkNet.digital](https://arknet.digital)
 
 📧 [hardme888@gmail.com](mailto:hardme888@gmail.com)
 
