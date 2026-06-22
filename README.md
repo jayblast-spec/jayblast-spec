@@ -1,51 +1,67 @@
-# Founder of ArkNet Digital
+<div align="center">
 
-I build AI-native systems and ArkNet is my foundational framework for knowledge compounding, persistent memory, agent collaboration. The goal is simple but ambitious: build systems that create, improve, remember.
+# Hi, I'm Joy Ogunleye 👋
 
-## ArkNet Thinking
+**Founder of [ArkNet Digital](https://arknet.digital) — building AI-powered SaaS tools that solve real problems, fast.**
 
-Innovation is breaking its old rules.
+[![Email](https://img.shields.io/badge/Email-hardme888@gmail.com-6366f1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hardme888@gmail.com)
+[![ArkNet OS](https://img.shields.io/badge/ArkNet_OS-Live-34d399?style=for-the-badge)](https://arknet-os.vercel.app)
+[![Twitter/X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com)
 
-For years, people held back ideas because they feared someone would steal them. AI has changed the cost of building, and it has changed the value of ideas.
+</div>
 
-If an idea cannot survive being seen, it will not scale anyway.
-
-We are entering a system where one person creates, another improves, and a third scales. That is not theft. That is acceleration.
-
-Ideas are no longer endpoints. They are starting points for systems.
-
-The advantage now is not secrecy. It is speed of iteration, quality of contribution, and the ability to attract others into the idea.
-
-You do not win by building alone. You win by building something others cannot ignore.
+---
 
 ## What I Build
 
-- AI-native operating systems
-- Knowledge compilers and memory engines
-- Agent orchestration workflows
-- SOC, OSINT, and intelligence dashboards
-- Open-source architecture for long-term maintainability
+I build AI-first tools that give individuals and small teams capabilities that used to require expensive software or consultants. Every product ships fast, runs in the browser, and solves one problem exceptionally well.
 
-## Core Stack
+---
 
-Languages & Frameworks: React Ecosystem, TypeScript, Node.js paradigms.
+## 🚀 Featured Projects
 
-Data & Storage: PostgreSQL & Cloud-native Relational Databases, Vector Search Extensions.
+| Project | What It Does | Live |
+|---------|-------------|------|
+| [AgentProof](https://github.com/jayblast-spec/agentproof) | Simulate and certify autonomous AI agents before production | [agentproof.vercel.app](https://agentproof.vercel.app) |
+| [Global Accelerators](https://github.com/jayblast-spec/global-accelerators) | 164+ verified accelerators + AI application templates | [global-accelerators.vercel.app](https://global-accelerators.vercel.app) |
+| [InvoiceKit](https://github.com/jayblast-spec/invoicekit) | Professional invoices in 30 seconds, browser-only | [invoicekit.vercel.app](https://invoicekit.vercel.app) |
+| [PitchReady](https://github.com/jayblast-spec/pitchready) | YC-style AI startup analyzer — honest, instant | [pitchready.vercel.app](https://pitchready.vercel.app) |
+| [ContractLens](https://github.com/jayblast-spec/contractlens) | AI contract risk scanner with plain-English explanations | [contractlens.vercel.app](https://contractlens.vercel.app) |
+| [PostCraft](https://github.com/jayblast-spec/postcraft) | AI post generator for LinkedIn and X | [postcraft.vercel.app](https://postcraft.vercel.app) |
+| [MeetingMind](https://github.com/jayblast-spec/meetingmind) | Turn meeting notes into structured action items | [meetingmind.vercel.app](https://meetingmind.vercel.app) |
+| [ThreatPulse](https://github.com/jayblast-spec/threatpulse) | Live CVE feed and vulnerability lookup | [threatpulse.vercel.app](https://threatpulse.vercel.app) |
 
-Cloud & Infrastructure: Serverless Deployment Platforms, Edge Computing, Automated GitOps.
+---
 
-AI Integration: OpenAI/Anthropic SDKs and high-throughput inference APIs.
+## 🛠 My Stack
 
-Every project should teach the system. Every useful lesson should become memory. Every failure should become reusable knowledge.
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)](https://groq.com/)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 
-## Principles
+---
 
-- Build in public, but build with standards.
-- Turn knowledge into reusable infrastructure.
-- Prefer systems over one-off projects.
-- Make outputs deployable, testable, and improvable.
-- Let collaboration accelerate the idea.
+## 📊 GitHub Stats
 
-## Tags
+![Joy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayblast-spec&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=34d399)
 
-#ArkNetThinking #OpenInnovation #CollectiveIntelligence #AIShift #BuildInPublic #FutureOfWork #SystemLeadership #InnovationStrategy
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jayblast-spec&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=6366f1)
+
+---
+
+## 💡 The Mission
+
+> Most productivity and intelligence tools are either too complex, too expensive, or locked behind enterprise sales cycles. ArkNet builds the versions that just work — open in the browser, no account, solve the problem, done.
+
+---
+
+<div align="center">
+
+Built with **[ArkNet Forge](https://arknet-os.vercel.app)** — Joy's internal AI development system
+
+📧 [hardme888@gmail.com](mailto:hardme888@gmail.com)
+
+</div>
