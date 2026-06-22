@@ -1,12 +1,11 @@
 <div align="center">
 
-# Hi, 👋
+# Hi 👋
 
 **Founder of [ArkNet Digital](https://arknet.digital) — building AI-powered SaaS tools that solve real problems, fast.**
 
 [![Email](https://img.shields.io/badge/Email-hardme888@gmail.com-6366f1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hardme888@gmail.com)
-[![ArkNet OS](https://img.shields.io/badge/ArkNet_OS-Live
-[![Twitter/X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com)
+[![TwitterX](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com)
 
 </div>
 
@@ -14,11 +13,11 @@
 
 ## What I Build
 
-I build AI-first tools that give individuals and small teams capabilities that used to require expensive software or consultants. Every product ships fast, runs in the browser, and solves one problem exceptionally well.
+I build AI-first tools that give individuals and small teams capabilities that used to require expensive software or consultants. Every product ships fast, and solves one problem exceptionally well.
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Few of My Featured Projects
 
 | Project | What It Does | Live |
 |---------|-------------|------|
