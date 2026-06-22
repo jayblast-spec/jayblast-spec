@@ -1,11 +1,11 @@
 <div align="center">
 
-# Hi, I'm Joy Ogunleye 👋
+# Hi, 👋
 
 **Founder of [ArkNet Digital](https://arknet.digital) — building AI-powered SaaS tools that solve real problems, fast.**
 
 [![Email](https://img.shields.io/badge/Email-hardme888@gmail.com-6366f1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hardme888@gmail.com)
-[![ArkNet OS](https://img.shields.io/badge/ArkNet_OS-Live-34d399?style=for-the-badge)](https://arknet-os.vercel.app)
+[![ArkNet OS](https://img.shields.io/badge/ArkNet_OS-Live
 [![Twitter/X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com)
 
 </div>
