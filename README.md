@@ -61,7 +61,7 @@ I build AI-first tools that give individuals and small teams capabilities that u
 | [DevPulse](https://github.com/jayblast-spec/devpulse) | Instant analytics for any public GitHub profile | [devpulse-drab-alpha.vercel.app](https://devpulse-drab-alpha.vercel.app) |
 | [SubnetPilot](https://github.com/jayblast-spec/subnetpilot) | Subnet & CIDR calculator — free, instant, runs in your browser | [subnetpilot.vercel.app](https://subnetpilot.vercel.app) |
 | [OmniSim](https://github.com/jayblast-spec/omnisim) | 35-agent AI world simulator — deploy agents to simulate real-world scenarios | [omnisim-bice.vercel.app](https://omnisim-bice.vercel.app) |
-| [Mr Soul Luxury Site](https://github.com/jayblast-spec/mr-soul-luxury-site) | Cinematic luxury Next.js site for Mr Soul Bistro and RedRoom VIP | [mr-soul-luxury-site.vercel.app](https://mr-soul-luxury-site.vercel.app) |
+
 
 ---
 
