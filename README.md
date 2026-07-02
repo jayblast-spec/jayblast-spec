@@ -17,18 +17,51 @@ I build AI-first tools that give individuals and small teams capabilities that u
 
 ---
 
-## 🚀 Few of My Featured Projects
+## 🚀 Shipped Projects
+
+### AI Productivity
 
 | Project | What It Does | Live |
 |---------|-------------|------|
-| [AgentProof](https://github.com/jayblast-spec/agentproof) | Simulate and certify autonomous AI agents before production | [agentproof.vercel.app](https://agentproof.vercel.app) |
+| [BriefOS](https://github.com/jayblast-spec/briefos) | Turn anything into structured intelligence — AI briefs from URLs, articles, or raw text | [briefos-silk.vercel.app](https://briefos-silk.vercel.app) |
+| [MeetingMind](https://github.com/jayblast-spec/meetingmind) | Turn meeting notes into structured action items | [meetingmind-pied-one.vercel.app](https://meetingmind-pied-one.vercel.app) |
+| [PostCraft](https://github.com/jayblast-spec/postcraft) | AI post generator for LinkedIn and X | [postcraft-one.vercel.app](https://postcraft-one.vercel.app) |
+| [PostOS](https://github.com/jayblast-spec/postos) | AI social media voice engine | [postos-seven.vercel.app](https://postos-seven.vercel.app) |
+| [DayForge](https://github.com/jayblast-spec/dayforge) | AI-powered daily time-block planner | [dayforge-psi.vercel.app](https://dayforge-psi.vercel.app) |
+| [OpsIntel](https://github.com/jayblast-spec/opsintel) | AI operations intelligence brief generator | [opsintel-delta.vercel.app](https://opsintel-delta.vercel.app) |
+| [RoleForge](https://github.com/jayblast-spec/roleforge) | AI org role generator — wizard UI | [roleforge-five.vercel.app](https://roleforge-five.vercel.app) |
+| [Orbit](https://github.com/jayblast-spec/orbit) | Founder operating layer — scheduling, analytics, publishing, automation | [orbit-alpha-nine.vercel.app](https://orbit-alpha-nine.vercel.app) |
+
+### Startup & Business
+
+| Project | What It Does | Live |
+|---------|-------------|------|
 | [Global Accelerators](https://github.com/jayblast-spec/global-accelerators) | 164+ verified accelerators + AI application templates | [global-accelerators.vercel.app](https://global-accelerators.vercel.app) |
-| [InvoiceKit](https://github.com/jayblast-spec/invoicekit) | Professional invoices in 30 seconds, browser-only | [invoicekit.vercel.app](https://invoicekit.vercel.app) |
-| [PitchReady](https://github.com/jayblast-spec/pitchready) | YC-style AI startup analyzer — honest, instant | [pitchready.vercel.app](https://pitchready.vercel.app) |
-| [ContractLens](https://github.com/jayblast-spec/contractlens) | AI contract risk scanner with plain-English explanations | [contractlens.vercel.app](https://contractlens.vercel.app) |
-| [PostCraft](https://github.com/jayblast-spec/postcraft) | AI post generator for LinkedIn and X | [postcraft.vercel.app](https://postcraft.vercel.app) |
-| [MeetingMind](https://github.com/jayblast-spec/meetingmind) | Turn meeting notes into structured action items | [meetingmind.vercel.app](https://meetingmind.vercel.app) |
-| [ThreatPulse](https://github.com/jayblast-spec/threatpulse) | Live CVE feed and vulnerability lookup | [threatpulse.vercel.app](https://threatpulse.vercel.app) |
+| [PitchReady](https://github.com/jayblast-spec/pitchready) | YC-style AI startup analyzer — honest, instant | [pitchready-two.vercel.app](https://pitchready-two.vercel.app) |
+| [Startup Doc Generator](https://github.com/jayblast-spec/startup-doc-generator) | Free founder document generator — 17 template-first documents | [startup-doc-generator.vercel.app](https://startup-doc-generator.vercel.app) |
+| [InvoiceKit](https://github.com/jayblast-spec/invoicekit) | Professional invoices in 30 seconds, browser-only | [invoicekit-pi.vercel.app](https://invoicekit-pi.vercel.app) |
+| [Receipt Generator](https://github.com/jayblast-spec/receipt-generator) | Editable transaction receipt generator — OPay style, PDF download | [receipt-generator-eosin.vercel.app](https://receipt-generator-eosin.vercel.app) |
+| [ContractLens](https://github.com/jayblast-spec/contractlens) | AI contract risk scanner with plain-English explanations | [contractlens-rho.vercel.app](https://contractlens-rho.vercel.app) |
+
+### Security
+
+| Project | What It Does | Live |
+|---------|-------------|------|
+| [AgentProof](https://github.com/jayblast-spec/agentproof) | Simulate and certify autonomous AI agents before production | [agentproof-ten.vercel.app](https://agentproof-ten.vercel.app) |
+| [ThreatPulse](https://github.com/jayblast-spec/threatpulse) | Live CVE feed and vulnerability lookup | [threatpulse-six.vercel.app](https://threatpulse-six.vercel.app) |
+| [SafeLink](https://github.com/jayblast-spec/safelink) | Check if a link is safe before you click | [safelink-wheat.vercel.app](https://safelink-wheat.vercel.app) |
+| [TrustSignal](https://github.com/jayblast-spec/trustsignal) | Scan any domain for trust indicators and security headers | [trustsignal-delta.vercel.app](https://trustsignal-delta.vercel.app) |
+| [PortGuard](https://github.com/jayblast-spec/portguard) | Free port reference and exposed-device lookup | [portguard-six.vercel.app](https://portguard-six.vercel.app) |
+| [BreachCost](https://github.com/jayblast-spec/breachcost) | AI-powered data breach cost estimator | [breachcost.vercel.app](https://breachcost.vercel.app) |
+
+### Dev & Misc
+
+| Project | What It Does | Live |
+|---------|-------------|------|
+| [DevPulse](https://github.com/jayblast-spec/devpulse) | Instant analytics for any public GitHub profile | [devpulse-drab-alpha.vercel.app](https://devpulse-drab-alpha.vercel.app) |
+| [SubnetPilot](https://github.com/jayblast-spec/subnetpilot) | Subnet & CIDR calculator — free, instant, runs in your browser | [subnetpilot.vercel.app](https://subnetpilot.vercel.app) |
+| [OmniSim](https://github.com/jayblast-spec/omnisim) | 35-agent AI world simulator — deploy agents to simulate real-world scenarios | [omnisim-bice.vercel.app](https://omnisim-bice.vercel.app) |
+| [Mr Soul Luxury Site](https://github.com/jayblast-spec/mr-soul-luxury-site) | Cinematic luxury Next.js site for Mr Soul Bistro and RedRoom VIP | [mr-soul-luxury-site.vercel.app](https://mr-soul-luxury-site.vercel.app) |
 
 ---
 
