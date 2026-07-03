@@ -53,6 +53,14 @@ I build AI-first tools that give individuals and small teams capabilities that u
 | [TrustSignal](https://github.com/jayblast-spec/trustsignal) | Scan any domain for trust indicators and security headers | [trustsignal-delta.vercel.app](https://trustsignal-delta.vercel.app) |
 | [PortGuard](https://github.com/jayblast-spec/portguard) | Free port reference and exposed-device lookup | [portguard-six.vercel.app](https://portguard-six.vercel.app) |
 | [BreachCost](https://github.com/jayblast-spec/breachcost) | AI-powered data breach cost estimator | [breachcost.vercel.app](https://breachcost.vercel.app) |
+| [ExposureWatch](https://github.com/lifesnoggin888-svg/exposurewatch) | AI-native exposure risk scanner for domains, emails, and assets | [exposurewatch-sigma.vercel.app](https://exposurewatch-sigma.vercel.app) |
+
+### Consumer & Simulation
+
+| Project | What It Does | Live |
+|---------|-------------|------|
+| [SmartInvite](https://github.com/lifesnoggin888-svg/smartinvite) | Beautiful invitations, instant RSVPs | [smartinvite-ashen.vercel.app](https://smartinvite-ashen.vercel.app) |
+| [BE PRESIDENT](https://github.com/lifesnoggin888-svg/BE-PRESIDENT) | Global leadership simulator — govern 20+ nations solo or in co-presidency mode | [powerfulseat.online](https://powerfulseat.online) |
 
 ### Dev & Misc
 
@@ -61,7 +69,7 @@ I build AI-first tools that give individuals and small teams capabilities that u
 | [DevPulse](https://github.com/jayblast-spec/devpulse) | Instant analytics for any public GitHub profile | [devpulse-drab-alpha.vercel.app](https://devpulse-drab-alpha.vercel.app) |
 | [SubnetPilot](https://github.com/jayblast-spec/subnetpilot) | Subnet & CIDR calculator — free, instant, runs in your browser | [subnetpilot.vercel.app](https://subnetpilot.vercel.app) |
 | [OmniSim](https://github.com/jayblast-spec/omnisim) | 35-agent AI world simulator — deploy agents to simulate real-world scenarios | [omnisim-bice.vercel.app](https://omnisim-bice.vercel.app) |
-
+| [Mr Soul Luxury Site](https://github.com/jayblast-spec/mr-soul-luxury-site) | Cinematic luxury Next.js site for Mr Soul Bistro and RedRoom VIP | [mr-soul-luxury-site.vercel.app](https://mr-soul-luxury-site.vercel.app) |
 
 ---
 
