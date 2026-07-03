@@ -53,14 +53,14 @@ I build AI-first tools that give individuals and small teams capabilities that u
 | [TrustSignal](https://github.com/jayblast-spec/trustsignal) | Scan any domain for trust indicators and security headers | [trustsignal-delta.vercel.app](https://trustsignal-delta.vercel.app) |
 | [PortGuard](https://github.com/jayblast-spec/portguard) | Free port reference and exposed-device lookup | [portguard-six.vercel.app](https://portguard-six.vercel.app) |
 | [BreachCost](https://github.com/jayblast-spec/breachcost) | AI-powered data breach cost estimator | [breachcost.vercel.app](https://breachcost.vercel.app) |
-| [ExposureWatch](https://github.com/lifesnoggin888-svg/exposurewatch) | AI-native exposure risk scanner for domains, emails, and assets | [exposurewatch-sigma.vercel.app](https://exposurewatch-sigma.vercel.app) |
+| ExposureWatch | AI-native exposure risk scanner for domains, emails, and assets | [exposurewatch-sigma.vercel.app](https://exposurewatch-sigma.vercel.app) |
 
 ### Consumer & Simulation
 
 | Project | What It Does | Live |
 |---------|-------------|------|
-| [SmartInvite](https://github.com/lifesnoggin888-svg/smartinvite) | Beautiful invitations, instant RSVPs | [smartinvite-ashen.vercel.app](https://smartinvite-ashen.vercel.app) |
-| [BE PRESIDENT](https://github.com/lifesnoggin888-svg/BE-PRESIDENT) | Global leadership simulator — govern 20+ nations solo or in co-presidency mode | [powerfulseat.online](https://powerfulseat.online) |
+| SmartInvite | Beautiful invitations, instant RSVPs | [smartinvite-ashen.vercel.app](https://smartinvite-ashen.vercel.app) |
+| BE PRESIDENT | Global leadership simulator — govern 20+ nations solo or in co-presidency mode | [powerfulseat.online](https://powerfulseat.online) |
 
 ### Dev & Misc
 
