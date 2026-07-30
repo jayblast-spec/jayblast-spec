@@ -41,7 +41,7 @@ I build AI-first tools that give individuals and small teams capabilities that u
 
 | Signal | Value |
 |---|---|
-| Shipped products with a live URL | 27 |
+| Shipped products with a live URL | 57 |
 | Primary domains | AI productivity, security, founder tooling, simulation |
 | Deployment surface | Vercel functions, edge, and cron |
 | Data surface | Supabase PostgreSQL with explicit RLS |
