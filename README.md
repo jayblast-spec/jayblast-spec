@@ -4,7 +4,7 @@
 
 ### Useful Intelligence, Shipped in Public
 
-I build AI-first tools that give individuals and small teams capabilities that used to require expensive software, long sales cycles, or consultants. Every product opens in a browser, solves one problem exceptionally well, and ships to a live URL.
+I build AI-first tools that give individuals and all teams capabilities that used to require expensive software, long sales cycles, or consultants. Every product opens in a browser, solves one problem exceptionally well, and ships to a live URL.
 
 <p>
   <a href="https://arknet.digital"><img alt="Portfolio" src="https://img.shields.io/badge/ArkNet-Digital-10B981?style=for-the-badge&logo=vercel&logoColor=white"></a>
