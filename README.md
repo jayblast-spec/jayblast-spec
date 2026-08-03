@@ -169,9 +169,9 @@ Tooling cannot manufacture demand. Products earn expansion by producing evidence
 
 ![Contribution snake](https://raw.githubusercontent.com/jayblast-spec/jayblast-spec/output/github-contribution-grid-snake-dark.svg)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=jayblast-spec&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=1D4ED8&icon_color=38BDF8&text_color=C9D1D9)
+![Stats](https://github-readme-stats-navy.vercel.app/api?username=jayblast-spec&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=1D4ED8&icon_color=38BDF8&text_color=C9D1D9)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jayblast-spec&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=1D4ED8&text_color=C9D1D9)
+![Top Languages](https://github-readme-stats-navy.vercel.app/api/top-langs/?username=jayblast-spec&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=1D4ED8&text_color=C9D1D9)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com?user=jayblast-spec&theme=dark&hide_border=true&background=0D1117&ring=1D4ED8&fire=38BDF8&currStreakLabel=1D4ED8)
 
@@ -179,7 +179,7 @@ Tooling cannot manufacture demand. Products earn expansion by producing evidence
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=jayblast-spec&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=7)
+![Trophies](https://github-trophies.vercel.app/?username=jayblast-spec&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=7)
 
 </div>
 
