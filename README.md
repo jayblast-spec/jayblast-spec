@@ -4,11 +4,11 @@
 
 ### Useful Intelligence, Shipped in Public
 
-I build AI-first tools that give individuals and all teams capabilities that used to require expensive software, long sales cycles, or consultants. Every product opens in a browser, solves one problem exceptionally well, and ships to a live URL.
+I build AI-first tools that give individuals and teams capabilities that used to require expensive software, long sales cycles, or consultants. Every product opens in a browser, solves one problem exceptionally well, and ships to a live URL.
 
 <p>
-  <a href="https://arknet.digital"><img alt="Portfolio" src="https://img.shields.io/badge/ArkNet-Digital-10B981?style=for-the-badge&logo=vercel&logoColor=white"></a>
-  <a href="mailto:michael@arknet.digital"><img alt="Email" src="https://img.shields.io/badge/Email-michael@arknet.digital-6366F1?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://arknet.digital"><img alt="Portfolio" src="https://img.shields.io/badge/ArkNet-Digital-1D4ED8?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="mailto:michael@arknet.digital"><img alt="Email" src="https://img.shields.io/badge/Email-michael@arknet.digital-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/jayblast-spec?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
@@ -28,11 +28,11 @@ I build AI-first tools that give individuals and all teams capabilities that use
 </p>
 
 <p>
-  <img alt="Animated headline" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2600&pause=650&color=34D399&center=true&vCenter=true&width=760&lines=Real+problem+%E2%86%92+Narrow+wedge+%E2%86%92+Live+URL;No+signup+walls.+No+enterprise+demos.;AI+productivity+%7C+Security+%7C+Founder+tooling;Ship%2C+measure%2C+correct%2C+repeat">
+  <img alt="Animated headline" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2600&pause=650&color=38BDF8&center=true&vCenter=true&width=760&lines=Real+problem+%E2%86%92+Narrow+wedge+%E2%86%92+Live+URL;No+signup+walls.+No+enterprise+demos.;AI+productivity+%7C+Security+%7C+Founder+tooling;Ship%2C+measure%2C+correct%2C+repeat">
 </p>
 
 <p>
-  <img alt="Focus banner" src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0:09090B,45:101113,100:10B981&text=AI%20Products%20%7C%20Security%20Tools%20%7C%20Founder%20Infrastructure&fontColor=FAFAFA&fontSize=18&fontAlign=50&animation=fadeIn">
+  <img alt="Focus banner" src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0:020617,45:0B1E3D,100:1D4ED8&text=AI%20Products%20%7C%20Security%20Tools%20%7C%20Founder%20Infrastructure&fontColor=FAFAFA&fontSize=18&fontAlign=50&animation=fadeIn">
 </p>
 
 </div>
@@ -167,17 +167,27 @@ Tooling cannot manufacture demand. Products earn expansion by producing evidence
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=jayblast-spec&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=10B981&icon_color=34D399&text_color=C9D1D9)
+![Contribution snake](https://raw.githubusercontent.com/jayblast-spec/jayblast-spec/output/github-contribution-grid-snake-dark.svg)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jayblast-spec&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=10B981&text_color=C9D1D9)
+![Stats](https://github-readme-stats.vercel.app/api?username=jayblast-spec&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=1D4ED8&icon_color=38BDF8&text_color=C9D1D9)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jayblast-spec&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=1D4ED8&text_color=C9D1D9)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=jayblast-spec&theme=dark&hide_border=true&background=0D1117&ring=1D4ED8&fire=38BDF8&currStreakLabel=1D4ED8)
+
+</div>
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=jayblast-spec&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=7)
 
 </div>
 
 ## Position
 
-Most productivity and intelligence tools are either too complex, too expensive, or locked behind enterprise sales cycles. ArkNet builds the versions that just work: open in the browser, solve the problem, done.
+Most productivity and intelligence software is overbuilt, overpriced, or gated behind an enterprise sales cycle before a single real problem gets solved. ArkNet builds the alternative: focused tools that open directly in the browser, solve one problem well, and ship as a working product — not a demo, not a waitlist.
 
-The portfolio is deliberately wide because the goal is not one bet. It is a repeatable system for turning a real problem into a working product fast enough to learn from it.
+The portfolio spans multiple domains by design. The objective was never a single bet; it is a repeatable operating system for turning a real, evidenced problem into a working product fast enough to learn whether it deserves further investment — and to move on quickly when it doesn't.
 
 ## Contact
 
@@ -189,6 +199,6 @@ The portfolio is deliberately wide because the goal is not one bet. It is a repe
 
 <div align="center">
 
-<img alt="Footer" src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:10B981,55:101113,100:09090B&text=michael%40arknet.digital&fontColor=FAFAFA&fontSize=18&fontAlign=50&animation=fadeIn">
+<img alt="Footer" src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:1D4ED8,55:0B1E3D,100:020617&text=michael%40arknet.digital&fontColor=FAFAFA&fontSize=18&fontAlign=50&animation=fadeIn">
 
 </div>
