@@ -173,7 +173,7 @@ Tooling cannot manufacture demand. Products earn expansion by producing evidence
 
 ![Top Languages](https://github-readme-stats-navy.vercel.app/api/top-langs/?username=jayblast-spec&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=1D4ED8&text_color=C9D1D9)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=jayblast-spec&theme=dark&hide_border=true&background=0D1117&ring=1D4ED8&fire=38BDF8&currStreakLabel=1D4ED8)
+![Streak](https://streak-stats.demolab.com?user=jayblast-spec&theme=dark&hide_border=true&background=0D1117&ring=1D4ED8&fire=38BDF8&currStreakLabel=1D4ED8)
 
 </div>
 
