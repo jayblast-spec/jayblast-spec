@@ -4,7 +4,7 @@
 
 ### Useful Intelligence, Shipped in Public
 
-I build AI-first tools that give individuals and teams capabilities that used to require expensive software, long sales cycles, or consultants. Every product opens in a browser, solves one problem exceptionally well, and ships to a live URL.
+I design and ship production-grade, AI-native SaaS products end-to-end: architecture, data model, interface, and deployment. The application layer is TypeScript and Next.js over Supabase PostgreSQL with row-level security enforced by default, deployed to Vercel's edge and serverless runtime, and grounded on low-latency inference through Groq with deeper reasoning workloads routed to OpenAI. Every product is browser-first and account-optional by design, with no sales call, procurement cycle, or infrastructure for the end user to manage. The operating discipline is evidence over ambition: each build starts from a real, observed workaround, ships to a live URL as the smallest artifact that can prove or disprove demand, and either earns further investment through measured usage or gets retired outright.
 
 <p>
   <a href="https://arknet.digital"><img alt="Portfolio" src="https://img.shields.io/badge/ArkNet-Digital-1D4ED8?style=for-the-badge&logo=vercel&logoColor=white"></a>
