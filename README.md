@@ -1,19 +1,38 @@
 <div align="center">
 
-# Michael O. Ogunleye
+# ArkNet Digital
 
 ### Founder, ArkNet Digital · Systems Strategist · Technology Builder · Author
 
-**Resilient infrastructure. Intelligent systems. Built before they are needed.**
-
-I am the Founder of **[ArkNet Digital](https://arknet.digital)**, where I design and build technology systems at the intersection of artificial intelligence, resilient infrastructure, cybersecurity, product architecture, and operational intelligence.
-
-This GitHub is the working layer of that effort: production platforms, experiments, infrastructure patterns, and live systems built to test ideas against reality rather than presentation.
+I design and build technology systems at the intersection of artificial intelligence, resilient infrastructure, cybersecurity, product architecture, and operational intelligence.
 
 <p>
-  <a href="https://arknet.digital"><img alt="ArkNet Digital" src="https://img.shields.io/badge/ArkNet-Digital-1D4ED8?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="https://arknet.digital"><img alt="Portfolio" src="https://img.shields.io/badge/ArkNet-Digital-1D4ED8?style=for-the-badge&logo=vercel&logoColor=white"></a>
   <a href="mailto:michael@arknet.digital"><img alt="Email" src="https://img.shields.io/badge/Email-michael@arknet.digital-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/jayblast-spec?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
+<!-- Logo slot: drop the ArkNet mark at assets/arknet-icon.png in this repo, then uncomment.
+<p>
+  <img alt="ArkNet Digital" src="assets/arknet-icon.png" width="96">
+</p>
+-->
+
+<p>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-Product%20Layer-007ACC?style=flat-square&logo=typescript&logoColor=white">
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-App%20Shell-000000?style=flat-square&logo=next.js&logoColor=white">
+  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-RLS%20Schemas-3ECF8E?style=flat-square&logo=supabase&logoColor=white">
+  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-Design%20System-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
+  <img alt="Groq" src="https://img.shields.io/badge/Groq-Fast%20Inference-F55036?style=flat-square">
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-Functions%20%2B%20Cron-000000?style=flat-square&logo=vercel&logoColor=white">
+</p>
+
+<p>
+  <img alt="Animated headline" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2600&pause=650&color=38BDF8&center=true&vCenter=true&width=760&lines=Real+problem+%E2%86%92+Narrow+wedge+%E2%86%92+Live+URL;No+signup+walls.+No+enterprise+demos.;AI+productivity+%7C+Security+%7C+Founder+tooling;Ship%2C+measure%2C+correct%2C+repeat">
+</p>
+
+<p>
+  <img alt="Focus banner" src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0:020617,45:0B1E3D,100:1D4ED8&text=AI%20Products%20%7C%20Security%20Tools%20%7C%20Founder%20Infrastructure&fontColor=FAFAFA&fontSize=18&fontAlign=50&animation=fadeIn">
 </p>
 
 </div>
@@ -135,20 +154,20 @@ The goal is not to accumulate repositories. It is to build increasingly capable 
 - **Claims require evidence.** No fabricated volume, SLA, benchmark, adoption, or performance claims.
 - **Secrets stay server-side.** Credentials belong in environment variables and secret managers, never repositories, prompts, or client code.
 
-## Technology Stack
+## Build Stack
 
-| Layer | Role |
-|---|---|
-| **TypeScript / JavaScript** | Primary languages for product, interface, and service development |
-| **Python** | Automation, data processing, API integrations, and AI workflows |
-| **Next.js / React** | Application architecture, routing, server execution, and interfaces |
-| **Tailwind CSS** | Responsive interface systems and design primitives |
-| **Node.js** | Backend services, integrations, serverless API routes, and automation |
-| **Supabase / PostgreSQL** | Data, authentication, storage, and row-level authorization |
-| **Vercel** | Production deployment, functions, edge workloads, cron, and observability |
-| **Groq / OpenAI** | Inference, reasoning, structured generation, and agent workflows |
-| **Resend** | Transactional email and product communications |
-| **GitHub / GitHub Actions** | Source control, CI, and delivery automation |
+| Layer | Logo | Role |
+|---|---:|---|
+| TypeScript / JavaScript | <img src="https://cdn.simpleicons.org/typescript/007ACC" width="28" alt="TypeScript logo"> | Product, interface, and service development |
+| Python | <img src="https://cdn.simpleicons.org/python/3776AB" width="28" alt="Python logo"> | Automation, data processing, integrations, and AI workflows |
+| Next.js / React | <img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" width="28" alt="Next.js logo"> | App shell, routing, server rendering, and interactive interfaces |
+| Node.js | <img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="28" alt="Node.js logo"> | Serverless APIs, backend services, and automation |
+| Tailwind CSS | <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="28" alt="Tailwind logo"> | Mobile-first design system and accessible states |
+| Supabase / PostgreSQL | <img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="28" alt="Supabase logo"> | Data, auth, storage, and explicit row-level security |
+| Vercel | <img src="https://cdn.simpleicons.org/vercel/FFFFFF" width="28" alt="Vercel logo"> | Deployment, serverless functions, cron, edge, and observability |
+| Groq / OpenAI | <img src="https://www.google.com/s2/favicons?domain=groq.com&sz=64" width="28" alt="AI platform logo"> | Fast inference, reasoning, structured generation, and agent workflows |
+| Resend | <img src="https://cdn.simpleicons.org/resend/FFFFFF" width="28" alt="Resend logo"> | Transactional email and product communications |
+| GitHub / GitHub Actions | <img src="https://cdn.simpleicons.org/github/FFFFFF" width="28" alt="GitHub logo"> | Source control, CI, and delivery automation |
 
 ## Operating Discipline
 
@@ -185,6 +204,14 @@ It is what should be built **before disruption makes the need obvious**.
 ![Stats](https://github-readme-stats-navy.vercel.app/api?username=jayblast-spec&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=1D4ED8&icon_color=38BDF8&text_color=C9D1D9)
 
 ![Top Languages](https://github-readme-stats-navy.vercel.app/api/top-langs/?username=jayblast-spec&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=1D4ED8&text_color=C9D1D9)
+
+![Streak](https://streak-stats.demolab.com?user=jayblast-spec&theme=dark&hide_border=true&background=0D1117&ring=1D4ED8&fire=38BDF8&currStreakLabel=1D4ED8)
+
+</div>
+
+<div align="center">
+
+![Trophies](https://github-trophies.vercel.app/?username=jayblast-spec&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=7)
 
 </div>
 
