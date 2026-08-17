@@ -132,14 +132,16 @@ I design and ship production-grade, AI-native SaaS products end-to-end: architec
 
 | Layer | Logo | Role |
 |---|---:|---|
-| TypeScript | <img src="https://cdn.simpleicons.org/typescript/007ACC" width="28" alt="TypeScript logo"> | Product code across nearly every shipped tool |
-| Next.js | <img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" width="28" alt="Next.js logo"> | App shell, routing, and server rendering |
+| TypeScript / JavaScript | <img src="https://cdn.simpleicons.org/typescript/007ACC" width="28" alt="TypeScript logo"> | Product, interface, and service development |
+| Python | <img src="https://cdn.simpleicons.org/python/3776AB" width="28" alt="Python logo"> | Automation, data processing, integrations, and AI workflows |
+| Next.js / React | <img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" width="28" alt="Next.js logo"> | App shell, routing, server rendering, and interactive interfaces |
+| Node.js | <img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="28" alt="Node.js logo"> | Serverless APIs, backend services, and automation |
 | Tailwind CSS | <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="28" alt="Tailwind logo"> | Mobile-first design system and accessible states |
-| Supabase | <img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="28" alt="Supabase logo"> | PostgreSQL, auth, and explicit row level security |
-| Vercel | <img src="https://cdn.simpleicons.org/vercel/FFFFFF" width="28" alt="Vercel logo"> | Deployment, serverless functions, cron, and edge |
-| Groq | <img src="https://www.google.com/s2/favicons?domain=groq.com&sz=64" width="28" alt="Groq logo"> | Fast inference for interactive product surfaces |
-| OpenAI | <img src="https://www.google.com/s2/favicons?domain=openai.com&sz=64" width="28" alt="OpenAI logo"> | Reasoning, artifact compilation, and agent workflows |
-| GitHub | <img src="https://cdn.simpleicons.org/github/FFFFFF" width="28" alt="GitHub logo"> | Implementation queue, issue packets, and CI |
+| Supabase / PostgreSQL | <img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="28" alt="Supabase logo"> | Data, auth, storage, and explicit row-level security |
+| Vercel | <img src="https://cdn.simpleicons.org/vercel/FFFFFF" width="28" alt="Vercel logo"> | Deployment, serverless functions, cron, edge, and observability |
+| Groq / OpenAI | <img src="https://www.google.com/s2/favicons?domain=groq.com&sz=64" width="28" alt="AI platform logo"> | Fast inference, reasoning, structured generation, and agent workflows |
+| Resend | <img src="https://cdn.simpleicons.org/resend/FFFFFF" width="28" alt="Resend logo"> | Transactional email and product communications |
+| GitHub / GitHub Actions | <img src="https://cdn.simpleicons.org/github/FFFFFF" width="28" alt="GitHub logo"> | Source control, CI, and delivery automation |
 
 ## How I Build
 
