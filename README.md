@@ -63,7 +63,7 @@ The goal is not to accumulate repositories. It is to build increasingly capable 
 
 | Signal | Current Surface |
 |---|---|
-| Shipped products with a live URL | 57 |
+| Shipped products with a live URL | 93 |
 | Core domains | AI systems, security, founder infrastructure, simulation, operational intelligence |
 | Application architecture | TypeScript, Next.js, Tailwind CSS |
 | Data and access control | Supabase PostgreSQL with explicit row-level security |
