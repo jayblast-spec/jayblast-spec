@@ -100,6 +100,8 @@ The goal is not to accumulate repositories. It is to build increasingly capable 
 
 ## Open Source Infrastructure
 
+The process mattered more than the output. Before writing a line of any of these, I tested candidate ideas against the ecosystem that already exists — searched for prior art, read the alternatives, and killed the idea if the gap wasn't real. Inside pure AI/agent tooling alone, seventeen candidates went through that filter; fifteen were already solved, well, by something already shipping. Widening the search into adjacent infrastructure — CRDTs, the WebAssembly Component Model, vector databases, Postgres tooling — is what actually produced the eight below. Each one has a specific missing capability I can point to and a source for it: a cited paper, a spec changelog, or an existing tool's own stated non-goals.
+
 Eight independent open-source tools, each verified against a real, documented gap before a line of implementation was written — not products with a UI, but libraries and CLIs other developers install and build on. Every one ships with a full test suite run against the real underlying library or protocol (not mocks), CI, and a working demo.
 
 | Tool | Fills |
