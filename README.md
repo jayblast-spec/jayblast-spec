@@ -98,6 +98,21 @@ The goal is not to accumulate repositories. It is to build increasingly capable 
   </tr>
 </table>
 
+## Open Source Infrastructure
+
+Eight independent open-source tools, each verified against a real, documented gap before a line of implementation was written — not products with a UI, but libraries and CLIs other developers install and build on. Every one ships with a full test suite run against the real underlying library or protocol (not mocks), CI, and a working demo.
+
+| Tool | Fills |
+|---|---|
+| [agora](https://github.com/jayblast-spec/agora) | Propose/vote/veto/quorum primitives for multi-agent systems — the governance gap documented in [arXiv:2606.31498](https://arxiv.org/abs/2606.31498) |
+| [gatewayproof](https://github.com/jayblast-spec/gatewayproof) | Conformance suite for OpenAI-compatible LLM gateways — streaming, cost, and concurrency bugs an eyeball review won't catch |
+| [mcp-versionbridge](https://github.com/jayblast-spec/mcp-versionbridge) | Compatibility bridge for the handshake MCP's 2026-07-28 spec removed entirely |
+| [automerge-lens](https://github.com/jayblast-spec/automerge-lens) | Explains why an Automerge CRDT merge resolved the way it did, and fuzzes merge order to verify convergence |
+| [wit-breaking](https://github.com/jayblast-spec/wit-breaking) | Breaking-change detector for WebAssembly Component Model WIT interfaces — `buf breaking` for WIT |
+| [yjs-lens](https://github.com/jayblast-spec/yjs-lens) | Convergence checker for Yjs, the most widely-deployed CRDT in production (Tiptap, BlockNote, Jupyter collab) |
+| [embedguard](https://github.com/jayblast-spec/embedguard) | Catches a silent embedding-model swap before it silently corrupts vector search |
+| [pglite-diff](https://github.com/jayblast-spec/pglite-diff) | Diffs two migration paths' query results on real Postgres-in-WASM — catches regressions before they touch production |
+
 ## Shipped Systems
 
 ### AI & Operational Intelligence
