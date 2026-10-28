@@ -63,7 +63,7 @@ The goal is not to accumulate repositories. It is to build increasingly capable 
 
 | Signal | Current Surface |
 |---|---|
-| Shipped products with a live URL | 93 |
+| Public repositories with a verified live deployment | 33 |
 | Core domains | AI systems, security, founder infrastructure, simulation, operational intelligence |
 | Application architecture | TypeScript, Next.js, Tailwind CSS |
 | Data and access control | Supabase PostgreSQL with explicit row-level security |
@@ -82,18 +82,18 @@ The goal is not to accumulate repositories. It is to build increasingly capable 
       <a href="https://github.com/jayblast-spec/FounderSignal">Repository</a> · <a href="https://foundersignal-buildweek.vercel.app/">Live system</a>
     </td>
     <td width="33%">
-      <strong>AgentProof</strong>
+      <strong>DocketShield</strong>
       <br>
-      <sub>Testing and certification environment for autonomous AI agents before production deployment, with reproducible evaluation runs.</sub>
+      <sub>Agentic legal-deadline system for Georgia tenants: from a served eviction notice to a source-backed deadline, a draft Answer, and filing guidance.</sub>
       <br><br>
-      <a href="https://github.com/jayblast-spec/agentproof">Repository</a> · <a href="https://agentproof-ten.vercel.app">Live system</a>
+      <a href="https://github.com/jayblast-spec/docketshield">Repository</a> · <a href="https://docketshield-app.vercel.app">Live system</a>
     </td>
     <td width="33%">
       <strong>OmniSim</strong>
       <br>
       <sub>Multi-agent simulation environment for exploring public reaction, markets, elections, and other complex scenarios.</sub>
       <br><br>
-      <a href="https://github.com/jayblast-spec/omnisim">Repository</a> · <a href="https://omnisim-bice.vercel.app">Live system</a>
+      <a href="https://omnisim-bice.vercel.app">Live system</a>
     </td>
   </tr>
 </table>
@@ -124,9 +124,9 @@ Eight independent open-source tools, each verified against a real, documented ga
 | [BriefOS](https://github.com/jayblast-spec/briefos) | Converts URLs, articles, or raw text into structured intelligence briefs | [Live](https://briefos-silk.vercel.app) |
 | [MeetingMind](https://github.com/jayblast-spec/meetingmind) | Converts meeting notes into decisions, actions, and next steps | [Live](https://meetingmind-pied-one.vercel.app) |
 | [OpsIntel](https://github.com/jayblast-spec/opsintel) | Produces structured operational-intelligence briefs | [Live](https://opsintel-delta.vercel.app) |
-| [RKS](https://github.com/jayblast-spec/rks-rapid-knowledge-system) | Rapid Knowledge System for structured capture and retrieval | [Live](https://rks-rapid-knowledge-system.vercel.app) |
+| RKS | Rapid Knowledge System for structured capture and retrieval | [Live](https://rks-rapid-knowledge-system.vercel.app) |
 | [Orbit](https://github.com/jayblast-spec/orbit) | Founder operating layer spanning scheduling, analytics, publishing, and automation | [Live](https://orbit-alpha-nine.vercel.app) |
-| [PostOS](https://github.com/jayblast-spec/postos) | AI-assisted publishing and voice-consistency system | [Live](https://postos-seven.vercel.app) |
+| PostOS | AI-assisted publishing and voice-consistency system | [Live](https://postos-seven.vercel.app) |
 
 ### Founder & Business Infrastructure
 
@@ -136,14 +136,14 @@ Eight independent open-source tools, each verified against a real, documented ga
 | [PitchReady](https://github.com/jayblast-spec/pitchready) | Startup analysis across market, ICP, risk, and strategic defensibility | [Live](https://pitchready-two.vercel.app) |
 | [Startup Doc Generator](https://github.com/jayblast-spec/startup-doc-generator) | Template-first system for producing founder operating documents | [Live](https://startup-doc-generator.vercel.app) |
 | Global Accelerators | Accelerator intelligence and application-support platform | [Live](https://global-accelerators.vercel.app) |
-| [CorpIndex Global Prime](https://github.com/jayblast-spec/corpindex-global-prime) | Assesses corporate expansion readiness across global markets | [Live](https://corpindex-global-prime.vercel.app) |
-| [GrantScout](https://github.com/jayblast-spec/grantscout) | Grant discovery and evidence-quality system | [Live](https://grantscout-xi.vercel.app) |
+| CorpIndex Global Prime | Assesses corporate expansion readiness across global markets | [Live](https://corpindex-global-prime.vercel.app) |
+| GrantScout | Grant discovery and evidence-quality system | [Live](https://grantscout-xi.vercel.app) |
 
 ### Security & Trust
 
 | Product | Function | Live |
 |---|---|---|
-| [AgentProof](https://github.com/jayblast-spec/agentproof) | Evaluates autonomous AI agents before production deployment | [Live](https://agentproof-ten.vercel.app) |
+| [AgentProof](https://github.com/jayblast-spec/agentproof) (archived) | Evaluates autonomous AI agents before production deployment | [Live](https://agentproof-ten.vercel.app) |
 | [ContractLens](https://github.com/jayblast-spec/contractlens) | AI-assisted contract-risk analysis | [Live](https://contractlens-rho.vercel.app) |
 | [ThreatPulse](https://github.com/jayblast-spec/threatpulse) | CVE intelligence and vulnerability lookup | [Live](https://threatpulse-six.vercel.app) |
 | [SafeLink](https://github.com/jayblast-spec/safelink) | Phishing-link analysis before navigation | [Live](https://safelink-wheat.vercel.app) |
@@ -155,7 +155,7 @@ Eight independent open-source tools, each verified against a real, documented ga
 
 | Product | Function | Live |
 |---|---|---|
-| [OmniSim](https://github.com/jayblast-spec/omnisim) | Multi-agent world simulation for complex scenarios | [Live](https://omnisim-bice.vercel.app) |
+| OmniSim | Multi-agent world simulation for complex scenarios | [Live](https://omnisim-bice.vercel.app) |
 | SmartInvite | Invitation and RSVP infrastructure | [Live](https://smartinvite.vercel.app) |
 | BE PRESIDENT | Global leadership and governance simulator | [Live](https://powerfulseat.online) |
 | [DevPulse](https://github.com/jayblast-spec/devpulse) | Public GitHub profile analytics | [Live](https://devpulse-drab-alpha.vercel.app) |
