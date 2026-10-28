@@ -82,11 +82,11 @@ The goal is not to accumulate repositories. It is to build increasingly capable 
       <a href="https://github.com/jayblast-spec/FounderSignal">Repository</a> · <a href="https://foundersignal-buildweek.vercel.app/">Live system</a>
     </td>
     <td width="33%">
-      <strong>DocketShield</strong>
+      <strong>AgentProof</strong>
       <br>
-      <sub>Agentic legal-deadline system for Georgia tenants: from a served eviction notice to a source-backed deadline, a draft Answer, and filing guidance.</sub>
+      <sub>Testing and certification environment for autonomous AI agents before production deployment, with reproducible evaluation runs.</sub>
       <br><br>
-      <a href="https://github.com/jayblast-spec/docketshield">Repository</a> · <a href="https://docketshield-app.vercel.app">Live system</a>
+      <a href="https://github.com/jayblast-spec/agentproof">Repository</a> · <a href="https://agentproof-ten.vercel.app">Live system</a>
     </td>
     <td width="33%">
       <strong>OmniSim</strong>
@@ -143,7 +143,7 @@ Eight independent open-source tools, each verified against a real, documented ga
 
 | Product | Function | Live |
 |---|---|---|
-| [AgentProof](https://github.com/jayblast-spec/agentproof) (archived) | Evaluates autonomous AI agents before production deployment | [Live](https://agentproof-ten.vercel.app) |
+| [AgentProof](https://github.com/jayblast-spec/agentproof) | Evaluates autonomous AI agents before production deployment | [Live](https://agentproof-ten.vercel.app) |
 | [ContractLens](https://github.com/jayblast-spec/contractlens) | AI-assisted contract-risk analysis | [Live](https://contractlens-rho.vercel.app) |
 | [ThreatPulse](https://github.com/jayblast-spec/threatpulse) | CVE intelligence and vulnerability lookup | [Live](https://threatpulse-six.vercel.app) |
 | [SafeLink](https://github.com/jayblast-spec/safelink) | Phishing-link analysis before navigation | [Live](https://safelink-wheat.vercel.app) |
