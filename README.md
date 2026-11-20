@@ -1,8 +1,8 @@
 <div align="center">
 
-<img alt="Michael Ogunleye, Founder, ArkNet Digital" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,55:0B1E3D,100:1D4ED8&height=200&section=header&text=Michael%20Ogunleye&fontSize=52&fontColor=FFFFFF&fontAlignY=36&desc=Founder%2C%20ArkNet%20Digital&descSize=20&descAlignY=58&animation=fadeIn" width="100%">
+<img alt="Michael, Founder, ArkNet Digital" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,55:0B1E3D,100:1D4ED8&height=200&section=header&text=Michael%20Ogunleye&fontSize=52&fontColor=FFFFFF&fontAlignY=36&desc=Founder%2C%20ArkNet%20Digital&descSize=20&descAlignY=58&animation=fadeIn" width="100%">
 
-## Michael Ogunleye · Founder, ArkNet Digital
+## Michael · Founder, ArkNet Digital
 
 **Developer tools · AI-agent infrastructure · MCP tooling · Security tooling**
 
@@ -214,7 +214,7 @@ Each tool starts from a documented gap. These are the sources behind the most im
 - **Claims require evidence.** No fabricated volume, SLA, benchmark, adoption or performance claims.
 - **Secrets stay server-side.** Credentials belong in environment variables and secret managers, never in repositories, prompts or client code.
 
-## 🧰 Build Stack
+## 🧰 Some of My Building Stack
 
 <p align="center">
   <img alt="Tech stack" src="https://skillicons.dev/icons?i=ts,js,python,nodejs,react,nextjs,tailwind,supabase,postgres,vercel,githubactions,git&theme=dark&perline=12">
