@@ -224,12 +224,12 @@ Each tool starts from a documented gap. These are the sources behind the most im
 |---|:---:|---|
 | TypeScript / JavaScript | <img src="https://cdn.simpleicons.org/typescript/007ACC" width="24" alt="TypeScript"> | Libraries, product interfaces and services |
 | Python | <img src="https://cdn.simpleicons.org/python/3776AB" width="24" alt="Python"> | Automation, data processing, integrations and AI workflows |
-| Next.js / React | <img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" width="24" alt="Next.js"> | App shell, routing, server rendering and interactive interfaces |
+| Next.js / React | <img src="https://cdn.simpleicons.org/nextdotjs/9CA3AF" width="24" alt="Next.js"> | App shell, routing, server rendering and interactive interfaces |
 | Node.js | <img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="24" alt="Node.js"> | Serverless APIs, CLIs, backend services and automation |
 | Supabase / PostgreSQL | <img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="24" alt="Supabase"> | Data, auth, storage and explicit row-level security |
-| MCP / A2A | <img src="https://cdn.simpleicons.org/modelcontextprotocol/FFFFFF" width="24" alt="Model Context Protocol"> | Agent protocols, conformance testing and adapters |
+| MCP / A2A | <img src="https://cdn.simpleicons.org/modelcontextprotocol/9CA3AF" width="24" alt="Model Context Protocol"> | Agent protocols, conformance testing and adapters |
 | WebAssembly | <img src="https://cdn.simpleicons.org/webassembly/654FF0" width="24" alt="WebAssembly"> | Component Model interfaces and Postgres-in-WASM testing |
-| Vercel | <img src="https://cdn.simpleicons.org/vercel/FFFFFF" width="24" alt="Vercel"> | Deployment, serverless functions, cron and edge |
+| Vercel | <img src="https://cdn.simpleicons.org/vercel/9CA3AF" width="24" alt="Vercel"> | Deployment, serverless functions, cron and edge |
 | Groq / OpenAI | <img src="https://www.google.com/s2/favicons?domain=groq.com&sz=64" width="24" alt="Groq"> | Fast inference, reasoning, structured generation and agent workflows |
 | GitHub Actions | <img src="https://cdn.simpleicons.org/githubactions/2088FF" width="24" alt="GitHub Actions"> | CI, published Actions and delivery automation |
 
@@ -256,7 +256,7 @@ Technology does not manufacture demand. Architecture does not remove uncertainty
 
 <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=jayblast-spec&theme=dark&hide_border=true&background=0D1117&ring=1D4ED8&fire=38BDF8&currStreakLabel=38BDF8">
 
-<img alt="Contribution activity graph" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jayblast-spec&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=1D4ED8&point=FFFFFF&area=true">
+<img alt="Contribution activity graph" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jayblast-spec&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=1D4ED8&point=FFFFFF&area=true&custom_title=Michael%20Ogunleye%27s%20Contribution%20Graph">
 
 <img alt="Trophies" src="https://github-trophies.vercel.app/?username=jayblast-spec&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=7">
 
