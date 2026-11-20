@@ -1,8 +1,8 @@
 <div align="center">
 
-<img alt="Michael, Founder, ArkNet Digital" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,55:0B1E3D,100:1D4ED8&height=200&section=header&text=Michael%20Ogunleye&fontSize=52&fontColor=FFFFFF&fontAlignY=36&desc=Founder%2C%20ArkNet%20Digital&descSize=20&descAlignY=58&animation=fadeIn" width="100%">
+<img alt="Michael Ogunleye, Founder, ArkNet Digital" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,55:0B1E3D,100:1D4ED8&height=200&section=header&text=Michael%20Ogunleye&fontSize=52&fontColor=FFFFFF&fontAlignY=36&desc=Founder%2C%20ArkNet%20Digital&descSize=20&descAlignY=58&animation=fadeIn" width="100%">
 
-## Michael · Founder, ArkNet Digital
+## Michael Ogunleye · Founder, ArkNet Digital
 
 **Developer tools · AI-agent infrastructure · MCP tooling · Security tooling**
 
@@ -16,7 +16,7 @@
 
 <p>
   <img alt="Open-source libraries" src="https://img.shields.io/badge/open--source%20libraries-8%20on%20npm-020617?style=flat-square&logo=npm&logoColor=CB3837">
-  <img alt="Live products" src="https://img.shields.io/badge/live%20products-6-020617?style=flat-square&logo=vercel&logoColor=white">
+  <img alt="Live products" src="https://img.shields.io/badge/live%20products-8-020617?style=flat-square&logo=vercel&logoColor=white">
   <img alt="Focus" src="https://img.shields.io/badge/focus-agents%20%C2%B7%20MCP%20%C2%B7%20CI%20safety%20%C2%B7%20security-020617?style=flat-square">
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=jayblast-spec&style=flat-square&color=1D4ED8&label=profile%20views">
 </p>
@@ -39,7 +39,7 @@ I treat product strategy, architecture, security, data, interface and deployment
 |---|---|
 | Open-source libraries | **8** TypeScript packages on npm, each with CI, a test suite and docs |
 | MCP tooling | A conformance suite ([mcp-conform](https://github.com/jayblast-spec/mcp-conform)), a live badge registry ([mcp-registry](https://jayblast-spec.github.io/mcp-registry/)) and a version bridge |
-| Live products | [Negotiator](https://ainegotiator.digital), [OwnEnvoy](https://ownenvoy-two.vercel.app), [BE PRESIDENT](https://powerfulseat.online), [GrantScout](https://grant-scout-jayblast.vercel.app), [ExposureWatch](https://exposurewatch-sigma.vercel.app), [SmartInvite](https://smartinvite.vercel.app) |
+| Live products | [Negotiator](https://ainegotiator.digital), [OwnEnvoy](https://ownenvoy-two.vercel.app), [BE PRESIDENT](https://powerfulseat.online), [GrantScout](https://grant-scout-jayblast.vercel.app), [ExposureWatch](https://exposurewatch-sigma.vercel.app), [SmartInvite](https://smartinvite-vt6z.vercel.app), [AI Certified](https://aicertified.digital), [AI Human](https://aihuman.digital) |
 | Core domains | AI agents, developer tooling, security, founder infrastructure, simulation |
 | Architecture | TypeScript, Node.js, Next.js, Tailwind CSS, Supabase Postgres with explicit row-level security, Vercel |
 
@@ -182,10 +182,23 @@ Each tool starts from a documented gap. These are the sources behind the most im
       <a href="https://exposurewatch-sigma.vercel.app"><img alt="Live" src="https://img.shields.io/badge/live-ExposureWatch-22C55E?style=flat-square"></a>
     </td>
     <td width="33%" valign="top">
-      <h4><a href="https://smartinvite.vercel.app">SmartInvite</a></h4>
-      <p>Invitation and RSVP infrastructure.</p>
-      <a href="https://smartinvite.vercel.app"><img alt="Live" src="https://img.shields.io/badge/live-SmartInvite-22C55E?style=flat-square"></a>
+      <h4><a href="https://smartinvite-vt6z.vercel.app">SmartInvite</a></h4>
+      <p>AI-powered invitations with instant RSVP collection; guests reply without installing an app.</p>
+      <a href="https://smartinvite-vt6z.vercel.app"><img alt="Live" src="https://img.shields.io/badge/live-SmartInvite-22C55E?style=flat-square"></a>
     </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h4><a href="https://aicertified.digital">AI Certified</a></h4>
+      <p>AI-literacy quiz show: 15 questions on AI literacy, prompt engineering and web dev, styled after Who Wants to Be a Millionaire.</p>
+      <a href="https://aicertified.digital"><img alt="Live" src="https://img.shields.io/badge/live-aicertified.digital-22C55E?style=flat-square"></a>
+    </td>
+    <td width="33%" valign="top">
+      <h4><a href="https://aihuman.digital">AI Human</a></h4>
+      <p>12 questions, 3 minutes: a personalised AI career map matched to your personality, sector and experience level.</p>
+      <a href="https://aihuman.digital"><img alt="Live" src="https://img.shields.io/badge/live-aihuman.digital-22C55E?style=flat-square"></a>
+    </td>
+    <td width="33%" valign="top"></td>
   </tr>
 </table>
 
@@ -214,7 +227,7 @@ Each tool starts from a documented gap. These are the sources behind the most im
 - **Claims require evidence.** No fabricated volume, SLA, benchmark, adoption or performance claims.
 - **Secrets stay server-side.** Credentials belong in environment variables and secret managers, never in repositories, prompts or client code.
 
-## 🧰 Some of My Building Stack
+## 🧰 Build Stack
 
 <p align="center">
   <img alt="Tech stack" src="https://skillicons.dev/icons?i=ts,js,python,nodejs,react,nextjs,tailwind,supabase,postgres,vercel,githubactions,git&theme=dark&perline=12">
