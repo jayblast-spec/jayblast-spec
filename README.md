@@ -1,8 +1,8 @@
 <div align="center">
 
-<img alt="Michael Ogunleye, Founder, ArkNet Digital" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,55:0B1E3D,100:1D4ED8&height=200&section=header&text=Michael%20Ogunleye&fontSize=52&fontColor=FFFFFF&fontAlignY=36&desc=Founder%2C%20ArkNet%20Digital&descSize=20&descAlignY=58&animation=fadeIn" width="100%">
+<img alt="Michael, Founder, ArkNet Digital" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,55:0B1E3D,100:1D4ED8&height=200&section=header&text=Michael&fontSize=52&fontColor=FFFFFF&fontAlignY=36&desc=Founder%2C%20ArkNet%20Digital&descSize=20&descAlignY=58&animation=fadeIn" width="100%">
 
-## Michael Ogunleye · Founder, ArkNet Digital
+## Michael · Founder, ArkNet Digital
 
 **Developer tools · AI-agent infrastructure · MCP tooling · Security tooling**
 
@@ -10,7 +10,7 @@
 
 <p>
   <a href="https://arknet.digital"><img alt="arknet.digital" src="https://img.shields.io/badge/arknet.digital-Website-1D4ED8?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/michael-o-ogunleye-997938371"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Michael%20O.%20Ogunleye-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/michael-o-ogunleye-997938371"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Michael-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:michael@arknet.digital"><img alt="Email" src="https://img.shields.io/badge/Email-michael%40arknet.digital-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
@@ -227,7 +227,7 @@ Each tool starts from a documented gap. These are the sources behind the most im
 - **Claims require evidence.** No fabricated volume, SLA, benchmark, adoption or performance claims.
 - **Secrets stay server-side.** Credentials belong in environment variables and secret managers, never in repositories, prompts or client code.
 
-## 🧰 Build Stack
+## 🧰 Some of My Building Stack
 
 <p align="center">
   <img alt="Tech stack" src="https://skillicons.dev/icons?i=ts,js,python,nodejs,react,nextjs,tailwind,supabase,postgres,vercel,githubactions,git&theme=dark&perline=12">
@@ -264,12 +264,12 @@ Technology does not manufacture demand. Architecture does not remove uncertainty
 
 <div align="center">
 
-<img alt="GitHub stats" height="170" src="https://github-readme-stats.vercel.app/api?username=jayblast-spec&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=1D4ED8&text_color=C9D1D9&custom_title=Michael%20Ogunleye%27s%20GitHub%20Stats">
+<img alt="GitHub stats" height="170" src="https://github-readme-stats.vercel.app/api?username=jayblast-spec&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=1D4ED8&text_color=C9D1D9&custom_title=Michael%27s%20GitHub%20Stats">
 <img alt="Top languages" height="170" src="https://github-readme-stats-navy.vercel.app/api/top-langs/?username=jayblast-spec&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9">
 
 <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=jayblast-spec&theme=dark&hide_border=true&background=0D1117&ring=1D4ED8&fire=38BDF8&currStreakLabel=38BDF8">
 
-<img alt="Contribution activity graph" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jayblast-spec&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=1D4ED8&point=FFFFFF&area=true&custom_title=Michael%20Ogunleye%27s%20Contribution%20Graph">
+<img alt="Contribution activity graph" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jayblast-spec&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=1D4ED8&point=FFFFFF&area=true&custom_title=Michael%27s%20Contribution%20Graph">
 
 <img alt="Trophies" src="https://github-trophies.vercel.app/?username=jayblast-spec&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=7">
 
@@ -290,7 +290,7 @@ The central question is not how to react better after disruption. It is what sho
 | Purpose | Where |
 |---|---|
 | ArkNet Digital | [arknet.digital](https://arknet.digital) |
-| Professional profile | [LinkedIn: Michael O. Ogunleye](https://www.linkedin.com/in/michael-o-ogunleye-997938371) |
+| Professional profile | [LinkedIn: Michael](https://www.linkedin.com/in/michael-o-ogunleye-997938371) |
 | Strategic, institutional or product correspondence | [michael@arknet.digital](mailto:michael@arknet.digital) |
 | Repositories and shipped systems | [github.com/jayblast-spec](https://github.com/jayblast-spec?tab=repositories) |
 
